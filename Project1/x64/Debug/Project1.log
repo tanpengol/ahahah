@@ -1,0 +1,11 @@
+﻿  main.c
+d:\vspro\project1\project1\project1\src\main.c(300): warning C4305: “函数”: 从“double”到“const float”截断
+d:\vspro\project1\project1\project1\src\main.c(300): warning C4244: “函数”: 从“const unsigned int”转换到“const float”，可能丢失数据
+d:\vspro\project1\project1\project1\src\main.c(303): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\vspro\project1\project1\project1\src\main.c(413): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\vspro\project1\project1\project1\src\main.c(414): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\vspro\project1\project1\project1\src\main.c(421): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\vspro\project1\project1\project1\src\main.c(422): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\vspro\project1\project1\project1\src\main.c(418): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\vspro\project1\project1\project1\src\main.c(419): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> D:\vspro\Project1\Project1\x64\Debug\Project1.exe
